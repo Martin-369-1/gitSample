@@ -1,5 +1,7 @@
 "Hi hello ,"  
 
-This is the second time i changing this file
-this may occur collision
+
+I changed this file
+my name is afnan
+hello afnan
 
